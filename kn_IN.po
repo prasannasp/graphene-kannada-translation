@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Graphene 1.0 theme for WordPress\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-01-21 21:34+1200\n"
-"PO-Revision-Date: 2012-03-22 09:50+0530\n"
+"PO-Revision-Date: 2012-03-22 19:38+0530\n"
 "Last-Translator: Prasanna SP <prasannasp@live.com>\n"
 "Language-Team: Prasanna SP <prasanna@prasannasp.net>\n"
 "MIME-Version: 1.0\n"
@@ -493,19 +493,19 @@ msgstr "ಗ್ರಾಫೀನ್ ಬಗ್ಗೆ ಪುನರಾವರ್ತಿ�
 
 #: admin/faq.php:14
 msgid "Where should I go for the theme's support?"
-msgstr ""
+msgstr "ನಾನು ಥೀಮ್ ಬೆಂಬಲಕ್ಕಾಗಿ ಎಲ್ಲಿ ಹೋಗಬೇಕು?"
 
 #: admin/faq.php:15
 msgid "Please direct all support requests for the theme at the theme's <a href=\"http://forum.khairul-syahir.com/graphene-wordpress-theme/\">Support Forum</a>."
-msgstr ""
+msgstr "ಎಲ್ಲಾ ಥೀಮ್ ಬೆಂಬಲ ಮನವಿಗಳನ್ನು ಥೀಮ್‌ನ <a href=\"http://forum.khairul-syahir.com/graphene-wordpress-theme/\">ಸಪೋರ್ಟ್ ಫೋರಂ</a>ನಲ್ಲಿ ನಿರ್ದೇಶಿಸಿ."
 
 #: admin/faq.php:18
 msgid "The post's featured image is replacing my header image. Help!"
-msgstr ""
+msgstr "ಪೋಸ್ಟಿನ ವಿಶಿಷ್ಟ ಚಿತ್ರ ಹೆಡರ್ ಚಿತ್ರವನ್ನು ಬದಲಾಯಿಸುತ್ತಿದೆ. ಸಹಾಯ ಬೇಕು!"
 
 #: admin/faq.php:19
 msgid "This is actually one of the theme's features, based on the feature in the default TwentyTen theme. Any featured image that has a size of greater than or equal to the theme's header image size (960 x 198 pixels) will replace the header image when the post/page that featured image is assigned to is being displayed. It enables you to have different header image for different posts and/or pages."
-msgstr ""
+msgstr "ಇದು ವಾಸ್ತವವಾಗಿ ಡೀಫಾಲ್ಟ್ TwentyTen ಥೀಮ್ ಆಧಾರಿತ ಥೀಮ್ ವೈಶಿಷ್ಟ್ಯ. ಯಾವುದೇ ಬರಹ ಅಥವಾ ಪುಟಕ್ಕೆ ವಿಶಿಷ್ಟ ಚಿತ್ರವನ್ನು ನಿಗದಿಪಡಿಸಿದಾಗ, ವಿಶಿಷ್ಟ ಚಿತ್ರವು ಹೆಡರ್ ಚಿತ್ರಕ್ಕಿಂತ ದೊಡ್ಡದಾದ ಅಥವಾ ಹೆಡರ್ ಚಿತ್ರದಷ್ಟೇ ಇದ್ದಾಗ (960 x 198 ಪಿಕ್ಸೆಲ್‌ಗಳು) ಅದು ಹೆಡರ್ ಚಿತ್ರದ ಬದಲಿಗೆ ಪ್ರದರ್ಶಿಸಲ್ಪಡುತ್ತದೆ. ಇದು ಬೇರೆ ಬೇರೆ ಪೋಸ್ಟ್ ಮತ್ತು/ಅಥವಾ ಪುಟವು ಬೇರೆ ಬೇರೆ ಹೆಡರ್ ಚಿತ್ರವನ್ನು ಹೊಂದಲು ಸಾಧ್ಯವಾಗಿಸುತ್ತದೆ."
 
 #: admin/faq.php:20
 msgid "If you want to disable this feature, simply tick the <em>Disable Featured Image replacing header image</em> option in the <a href=\"themes.php?page=graphene_options&tab=display\">Graphene Options</a> page, under Display &gt; Header Display Options."
