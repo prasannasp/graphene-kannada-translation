@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Graphene 1.0 theme for WordPress\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-01-21 21:34+1200\n"
-"PO-Revision-Date: 2012-03-21 22:37+0530\n"
+"PO-Revision-Date: 2012-03-22 09:50+0530\n"
 "Last-Translator: Prasanna SP <prasannasp@live.com>\n"
 "Language-Team: Prasanna SP <prasanna@prasannasp.net>\n"
 "MIME-Version: 1.0\n"
@@ -56,7 +56,7 @@ msgstr "ಮಾಸಿಕ ಸಂಗ್ರಹ: %s"
 #. translators: F will be replaced with month, and Y will be replaced with year, so "F Y" in English would be replaced with something like "June 2008".
 #: archive.php:28
 msgid "F Y"
-msgstr ""
+msgstr "F Y"
 
 #: archive.php:30
 #, php-format
@@ -91,15 +91,15 @@ msgstr "ಈ ಬರಹವನ್ನು ಗುಪ್ತಪದದಿಂದ ಸಂರ
 #, php-format
 msgid "1 comment"
 msgid_plural "%d comments"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 ಪ್ರತಿಕ್ರಿಯೆ"
+msgstr[1] "%d ಪ್ರತಿಕ್ರಿಯೆಗಳು"
 
 #: comments.php:51
 #, php-format
 msgid "1 ping"
 msgid_plural "%d pings"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 ಪಿಂಗ್"
+msgstr[1] "%d ಪಿಂಗ್ಸ್"
 
 #: comments.php:109
 msgid "Comments have been disabled."
@@ -126,72 +126,72 @@ msgstr "ಹಕ್ಕುಸ್ವಾಮ್ಯ"
 #: footer.php:56
 #, php-format
 msgid "Except where otherwise noted, content on this site is licensed under a %s."
-msgstr ""
+msgstr "ಬೇರೆಡೆ ಸೂಚಿಸಿರುವುದನ್ನು ಹೊರತುಪಡಿಸಿ, ಈ ತಾಣದ ವಿಷಯದ ಪರವಾನಗಿಯು %s ಅಡಿ ಲಭ್ಯವಿರುತ್ತದೆ."
 
 #: footer.php:56
 msgid "Creative Commons Licence"
-msgstr ""
+msgstr "ಸೃಜನಾತ್ಮಕ ಸಾಮಾನ್ಯ ಪರವಾನಗಿ"
 
 #: footer.php:58
 msgid "Creative Commons Licence BY-NC-ND"
-msgstr ""
+msgstr "ಸೃಜನಾತ್ಮಕ ಸಾಮಾನ್ಯ ಪರವಾನಗಿ BY-NC-ND"
 
 #: footer.php:79
 msgid "Return to top"
-msgstr ""
+msgstr "ಪುಟದ ಮೇಲ್ಭಾಗಕ್ಕೆ ತೆರಳಿ"
 
 #. translators: %1$s is the link to WordPress.org, %2$s is the theme's name
 #: footer.php:89
 #, php-format
 msgid "Powered by %1$s and the %2$s."
-msgstr ""
+msgstr "%1$s ಮತ್ತು %2$s ರಿಂದ ಸಾಮರ್ಥ್ಯ ಪಡೆದಿದೆ."
 
 #: footer.php:89
 msgid "Graphene Theme"
-msgstr ""
+msgstr "ಗ್ರಾಫೀನ್ ಥೀಮ್"
 
 #: header.php:36
 #, php-format
 msgid "Subscribe to %s's RSS feed"
-msgstr ""
+msgstr "%s ಅವರ RSS ಫೀಡ್‌ಗೆ ಚಂದಾದಾರರಾಗಿ"
 
 #: header.php:36
 msgid "Subscribe to RSS feed"
-msgstr ""
+msgstr "RSS ಫೀಡ್‌ಗೆ ಚಂದಾದಾರರಾಗಿ"
 
 #: header.php:82
 #: header.php:102
 msgid "Go back to the front page"
-msgstr ""
+msgstr "ಮುಖಪುಟಕ್ಕೆ ಹಿಂತಿರುಗಿ"
 
 #: loop-author.php:23
 msgid "Author's details"
-msgstr ""
+msgstr "ಲೇಖಕರ ವಿವರಗಳು"
 
 #. translators: %1$s is the first name, %2$s is the last name
 #: loop-author.php:25
 #, php-format
 msgid "<strong>Name:</strong> %1$s %2$s"
-msgstr ""
+msgstr "<strong>ಹೆಸರು:</strong> %1$s %2$s"
 
 #: loop-author.php:26
 #, php-format
 msgid "<strong>Date registered:</strong> %1$s"
-msgstr ""
+msgstr "<strong>ನೋಂದಾಯಿತ ದಿನಾಂಕ:</strong> %1$s"
 
 #: loop-author.php:35
 msgid "Biography"
-msgstr ""
+msgstr "ಜೀವನಚರಿತ್ರೆ"
 
 #: loop-author.php:52
 msgid "Latest posts"
-msgstr ""
+msgstr "ಇತ್ತೀಚಿನ ಬರಹಗಳು"
 
 #: loop-author.php:55
 #: loop-author.php:85
 #, php-format
 msgid "Permalink Link to %s"
-msgstr ""
+msgstr " %s ಗೆ ಶಾಶ್ವತ ಕೊಂಡಿ"
 
 #: loop-author.php:55
 #: loop-author.php:85
@@ -203,11 +203,11 @@ msgstr ""
 #: loop.php:31
 #: loop.php:66
 msgid "(No title)"
-msgstr ""
+msgstr "(ಯಾವುದೇ ಶೀರ್ಷಿಕೆ ಇಲ್ಲ)"
 
 #: loop-author.php:92
 msgid "Most commented posts"
-msgstr ""
+msgstr "ಅತಿ ಹೆಚ್ಚು ಪ್ರತಿಕ್ರಿಯೆಗಳಿರುವ ಬರಹಗಳು"
 
 #: loop-children.php:45
 #: loop-children.php:53
@@ -216,280 +216,280 @@ msgstr ""
 #: loop.php:134
 #, php-format
 msgid "Permalink to %s"
-msgstr ""
+msgstr "%s ರ ಶಾಶ್ವತ ಲಿಂಕ್"
 
 #: loop-children.php:53
 msgid "View page &raquo;"
-msgstr ""
+msgstr "ಪುಟವನ್ನು ನೋಡಿ &raquo;"
 
 #: loop-not-found.php:3
 msgid "Not found"
-msgstr ""
+msgstr "ಕಂಡುಬಂದಿಲ್ಲ"
 
 #: loop-not-found.php:8
 msgid "Sorry, but you are looking for something that isn't here. Wanna try a search?"
-msgstr ""
+msgstr "ಕ್ಷಮಿಸಿ, ಆದರೆ ನೀವು ಇಲ್ಲಿರದ ಏನನ್ನೋ ಬಯಸುತ್ತಿದ್ದೀರಿ. ಅದನ್ನು ಹುಡುಕಲು ಪ್ರಯತ್ನಿಸುತ್ತೀರಾ?"
 
 #: loop-not-found.php:10
 msgid "Sorry, but no results were found for that keyword. Wanna try an alternative keyword search?"
-msgstr ""
+msgstr "ಕ್ಷಮಿಸಿ, ಆದರೆ ಆ ಪದಗುಚ್ಛಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಯಾವುದೇ ಫಲಿತಾಂಶ ಕಂಡುಬರಲಿಲ್ಲ. ಬದಲಿ ಪದಗುಚ್ಛಕ್ಕಾಗಿ ಹುಡುಕಲು ಪ್ರಯತ್ನಿಸುತ್ತೀರಾ?"
 
 #: loop-page.php:23
 #: loop-page.php:24
 #, php-format
 msgid "Print this %s"
-msgstr ""
+msgstr "%s ಅನ್ನು ಮುದ್ರಿಸಿ"
 
 #: loop-page.php:45
 #: loop-single.php:83
 #: loop.php:85
 #, php-format
 msgid "Edit %s"
-msgstr ""
+msgstr "%s ಸಂಪಾದಿಸಿ"
 
 #: loop-page.php:66
 #: loop-single.php:122
 #: loop.php:148
 msgid "Pages:"
-msgstr ""
+msgstr "ಪುಟಗಳು:"
 
 #: loop-page.php:90
 #: loop-post-formats.php:89
 #: loop-single.php:172
 #: loop.php:179
 msgid "Permanent link to this article:"
-msgstr ""
+msgstr "ಈ ಲೇಖನದ ಶಾಶ್ವತ ಕೊಂಡಿ:"
 
 #: loop-post-formats.php:15
 msgid "Status update"
-msgstr ""
+msgstr "ಸ್ಟೇಟಸ್ ಅಪ್ಡೇಟ್"
 
 #: loop-post-formats.php:16
 msgid "Audio"
-msgstr ""
+msgstr "ಧ್ವನಿ"
 
 #: loop-post-formats.php:17
 msgid "Image"
-msgstr ""
+msgstr "ಚಿತ್ರ"
 
 #: loop-post-formats.php:18
 msgid "Video"
-msgstr ""
+msgstr "ದೃಶ್ಯಾವಳಿ"
 
 #: loop-post-formats.php:19
 msgid "Post format"
-msgstr ""
+msgstr "ಬರಹ ವಿನ್ಯಾಸ"
 
 #. translators: This is the PHP date formatting string for the status post format. See http://php.net/manual/en/function.date.php for more details.
 #: loop-post-formats.php:32
 msgid "l F j, Y"
-msgstr ""
+msgstr "l F j, Y"
 
 #: loop-post-formats.php:32
 msgid "g:i A"
-msgstr ""
+msgstr "g:i A"
 
 #: loop-post-formats.php:42
 msgid "Edit post"
-msgstr ""
+msgstr "ಬರಹವನ್ನು ಬದಲಾಯಿಸಿ"
 
 #. translators: This is the PHP date formatting string for the image post format. See http://php.net/manual/en/function.date.php for more details.
 #: loop-post-formats.php:77
 #, php-format
 msgid "Posted on: %s"
-msgstr ""
+msgstr "ಪೋಸ್ಟ್ ಮಾಡಿರುವುದು: %s"
 
 #: loop-post-formats.php:77
 msgid "F j, Y"
-msgstr ""
+msgstr "F j, Y"
 
 #: loop-single.php:76
 #: loop.php:78
 msgid "Categories:"
-msgstr ""
+msgstr "ವಿಭಾಗಗಳು:"
 
 #: loop-single.php:98
 #: loop.php:102
 #, php-format
 msgid "by %s"
-msgstr ""
+msgstr "ಇವರಿಂದ %s"
 
 #: loop-single.php:132
 #: loop.php:158
 msgid "Tags:"
-msgstr ""
+msgstr "ಟ್ಯಾಗ್‌ಗಳು:"
 
 #: loop-single.php:132
 #: loop.php:158
 msgid "This post has no tag"
-msgstr ""
+msgstr "ಈ ಬರಹ ಯಾವುದೇ ಟ್ಯಾಗ್ ಹೊಂದಿಲ್ಲ"
 
 #: loop-single.php:153
 msgid "About the author"
-msgstr ""
+msgstr "ಲೇಖಕರ ಬಗ್ಗೆ"
 
 #: loop.php:127
 msgid "Read the rest of this entry &raquo;"
-msgstr ""
+msgstr "ಈ ದಾಖಲೆಯ ಉಳಿದ ಭಾಗವನ್ನು ಓದಿ &raquo;"
 
 #: loop.php:166
 msgid "Leave comment"
-msgstr ""
+msgstr "ಕಾಮೆಂಟ್ ಉಳಿಸಿ"
 
 #: loop.php:166
 msgid "Comments off"
-msgstr ""
+msgstr "ಮುಚ್ಚಿದ ಪ್ರತಿಕ್ರಿಯೆಗಳು"
 
 #: search-404.php:14
 msgid "Suggested results"
-msgstr ""
+msgstr "ಸೂಚಿಸಿದ ಫಲಿತಾಂಶಗಳು"
 
 #. translators: %s is the search term
 #: search-404.php:18
 #, php-format
 msgid "I've done a courtesy search for the term %s for you. See if you can find what you're looking for in the list below:"
-msgstr ""
+msgstr "ನಾನು ನಿಮಗಾಗಿ %s ಪದಕ್ಕಾಗಿ ಸೌಮ್ಯ ಹುಡುಕಾಟವನ್ನು ಮಾಡಿದೆ. ನೀವು ಹುಡುಕುತ್ತಿರುವ ವಿಷಯವು ಕೆಳಗಿನ ಪಟ್ಟಿಯಲ್ಲಿ ಇದೆಯೇ ಎಂದು ನೋಡಿ:"
 
 #: search-404.php:35
 msgid "<strong>Sorry, couldn't find anything.</strong> Try searching for alternative terms using the search form above."
-msgstr ""
+msgstr "<strong>ಕ್ಷಮಿಸಿ, ಏನೂ ಸಿಗಲಿಲ್ಲ.</strong> ಮೇಲಿನ ಹುಡುಕಾಟ ಫಾರ್ಮ್ ಬಳಸಿ ಬದಲೀ ಪದಗುಚ್ಛವನ್ನು ಹುಡುಕಲು ಪ್ರಯತ್ನಿಸಿ."
 
 #: search.php:10
 #, php-format
 msgid "Search results for: %s"
-msgstr ""
+msgstr "ಇದರ ಹುಡುಕಾಟದ ಫಲಿತಾಂಶಗಳು: %s"
 
 #: searchform.php:3
 #: searchform.php:4
 msgid "Search"
-msgstr ""
+msgstr "ಹುಡುಕು"
 
 #: sidebar-two.php:35
 #: sidebar.php:41
 msgid "Meta"
-msgstr ""
+msgstr "Meta"
 
 #: sidebar-two.php:40
 #: sidebar.php:46
 msgid "Posts RSS"
-msgstr ""
+msgstr "ಬರಹಗಳ RSS"
 
 #: sidebar-two.php:41
 #: sidebar.php:47
 msgid "Comments RSS"
-msgstr ""
+msgstr "ಪ್ರತಿಕ್ರಿಯೆಗಳ RSS"
 
 #. translators: %s is the link to wordpress.org
 #: sidebar-two.php:43
 #: sidebar.php:49
 #, php-format
 msgid "Powered by %s"
-msgstr ""
+msgstr "%s ರಿಂದ ಸಾಮರ್ಥ್ಯ ಪಡೆದಿದೆ"
 
 #: sidebar-two.php:43
 #: sidebar.php:49
 msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
-msgstr ""
+msgstr "ವರ್ಡ್ ಪ್ರೆಸ್, state-of-the-art ಶಬ್ದಾರ್ಥ ವೈಯಕ್ತಿಕ ಪ್ರಕಟಣಾ ವೇದಿಕೆಯಿಂದ ಸಾಮರ್ಥ್ಯ ಪಡೆದಿದೆ."
 
 #: sidebar-two.php:48
 #: sidebar.php:34
 msgid "Archives"
-msgstr ""
+msgstr "ಸಂಗ್ರಹಗಳು"
 
 #: tag.php:13
 #, php-format
 msgid "Tag Archive: <span>%s</span>"
-msgstr ""
+msgstr "ಟ್ಯಾಗ್ ಸಂಗ್ರಹ: <span>%s</span>"
 
 #: admin/custom-fields.php:14
 msgid "Graphene post-specific options"
-msgstr ""
+msgstr "ಗ್ರಾಫೀನ್ ಪೋಸ್ಟ್-ನಿಶ್ಚಿತ ಆಯ್ಕೆಗಳು"
 
 #: admin/custom-fields.php:15
 msgid "Graphene page-specific options"
-msgstr ""
+msgstr "ಗ್ರಾಫೀನ್ ಪುಟ-ನಿಶ್ಚಿತ ಆಯ್ಕೆಗಳು"
 
 #: admin/custom-fields.php:97
 msgid "These settings will only be applied to this particular post or page you're editing. They will override the global settings set in the Graphene Options or Graphene Display options page."
-msgstr ""
+msgstr "ಈ ಜೋಡಣೆಗಳು ನೀವು ಸಂಪಾದಿಸುತ್ತಿರುವ ಪೋಸ್ಟ್ ಅಥವಾ ಪುಟಕ್ಕೆ ಮಾತ್ರಾ ಅನ್ವಯಿಸುತ್ತದೆ. ಅವು ಗ್ರಾಫೀನ್ ಆಯ್ಕೆ ಅಥವಾ ಗ್ರಾಫೀನ್ ಪ್ರದರ್ಶನ ಆಯ್ಕೆಯ ಒಟ್ಟಾರೆ ಜೋಡಣೆಗಳನ್ನು ಅತಿಕ್ರಮಿಸುತ್ತದೆ."
 
 #: admin/custom-fields.php:98
 msgid "Slider options"
-msgstr ""
+msgstr "ಸ್ಲೈಡರ್ ಆಯ್ಕೆಗಳು"
 
 #: admin/custom-fields.php:102
 msgid "Slider image"
-msgstr ""
+msgstr "ಸ್ಲೈಡರ್ ಚಿತ್ರ"
 
 #: admin/custom-fields.php:106
 #: admin/custom-fields.php:132
 #: admin/custom-fields.php:146
 msgid "Use global setting"
-msgstr ""
+msgstr "ಜಾಗತಿಕ ಜೋಡಣೆಗಳನ್ನು ಬಳಸಿ"
 
 #: admin/custom-fields.php:107
 msgid "Don't show image"
-msgstr ""
+msgstr "ಚಿತ್ರವನ್ನು ತೋರಿಸಬೇಡಿ"
 
 #: admin/custom-fields.php:108
 msgid "Featured Image"
-msgstr ""
+msgstr "ವಿಶಿಷ್ಟ ಚಿತ್ರ"
 
 #: admin/custom-fields.php:109
 msgid "First image in post"
-msgstr ""
+msgstr "ಬರಹದ ಮೊದಲ ಚಿತ್ರ"
 
 #: admin/custom-fields.php:110
 msgid "Custom URL"
-msgstr ""
+msgstr "ಇಚ್ಛೆಯ URL"
 
 #: admin/custom-fields.php:116
 msgid "Custom slider image URL"
-msgstr ""
+msgstr "ಇಚ್ಛೆಯ ಸ್ಲೈಡರ್ ಚಿತ್ರದ URL"
 
 #: admin/custom-fields.php:120
 msgid "Make sure you select Custom URL in the slider image option above to use this custom url."
-msgstr ""
+msgstr "ಇಲ್ಲಿ custom url ಅನ್ನು ಬಳಸಲು ಮೇಲಿನ ಸ್ಲೈಡರ್ ಚಿತ್ರ ಆಯ್ಕೆಯಲ್ಲಿ ಇಚ್ಛೆಯ URL ಆಯ್ಕೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
 
 #: admin/custom-fields.php:124
 msgid "Display options"
-msgstr ""
+msgstr "ಪ್ರದರ್ಶನ ಆಯ್ಕೆಗಳು"
 
 #: admin/custom-fields.php:128
 msgid "AddThis Social Sharing button"
-msgstr ""
+msgstr "AddThis ಸಾಮಾಜಿಕ ಹಂಚಿಕೊಳ್ಳುವ ಗುಂಡಿ"
 
 #: admin/custom-fields.php:133
 msgid "Show button"
-msgstr ""
+msgstr "ಗುಂಡಿಯನ್ನು ತೋರಿಸಿ"
 
 #: admin/custom-fields.php:134
 msgid "Hide button"
-msgstr ""
+msgstr "ಗುಂಡಿಯನ್ನು ಮರೆಮಾಡಿ"
 
 #: admin/custom-fields.php:142
 msgid "Post date display"
-msgstr ""
+msgstr "ಬರಹದ ದಿನಾಂಕ ಪ್ರದರ್ಶನ"
 
 #: admin/custom-fields.php:147
 msgid "Hide date"
-msgstr ""
+msgstr "ದಿನಾಂಕವನ್ನು ಮರೆಮಾಚು"
 
 #: admin/custom-fields.php:155
 msgid "Navigation options"
-msgstr ""
+msgstr "ನ್ಯಾವಿಗೇಶನ್ ಆಯ್ಕೆಗಳು"
 
 #: admin/custom-fields.php:159
 msgid "Description"
-msgstr ""
+msgstr "ವಿವರಣೆ"
 
 #: admin/custom-fields.php:163
 msgid "Only required if you need a description in the navigation menu and you are not using a custom menu."
-msgstr ""
+msgstr "ಕಸ್ಟಮ್ ಮೆನು ಉಪಯೋಗಿಸುವಾಗ ನಿಮಗೆ ನ್ಯಾವಿಗೇಶನ್ ಮೆನುವಿನಲ್ಲಿ ವಿವರಣೆ ಬೇಕಿದ್ದರೆ ಮಾತ್ರಾ ಇದು ಅಗತ್ಯ."
 
 #: admin/faq.php:11
 msgid "Graphene's Frequently Asked Questions"
-msgstr ""
+msgstr "ಗ್ರಾಫೀನ್ ಬಗ್ಗೆ ಪುನರಾವರ್ತಿತ ಪ್ರಶ್ನೆಗಳು"
 
 #: admin/faq.php:14
 msgid "Where should I go for the theme's support?"
