@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Graphene 1.0 theme for WordPress\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-01-21 21:34+1200\n"
-"PO-Revision-Date: 2012-03-22 19:38+0530\n"
+"PO-Revision-Date: 2012-03-24 09:28+0530\n"
 "Last-Translator: Prasanna SP <prasannasp@live.com>\n"
 "Language-Team: Prasanna SP <prasanna@prasannasp.net>\n"
 "MIME-Version: 1.0\n"
@@ -130,11 +130,11 @@ msgstr "ಬೇರೆಡೆ ಸೂಚಿಸಿರುವುದನ್ನು ಹೊ�
 
 #: footer.php:56
 msgid "Creative Commons Licence"
-msgstr "ಸೃಜನಾತ್ಮಕ ಸಾಮಾನ್ಯ ಪರವಾನಗಿ"
+msgstr "ಕ್ರಿಯೇಟಿವ್ ಕಾಮನ್ಸ್ ಪರವಾನಗಿ"
 
 #: footer.php:58
 msgid "Creative Commons Licence BY-NC-ND"
-msgstr "ಸೃಜನಾತ್ಮಕ ಸಾಮಾನ್ಯ ಪರವಾನಗಿ BY-NC-ND"
+msgstr "ಕ್ರಿಯೇಟಿವ್ ಕಾಮನ್ಸ್ ಪರವಾನಗಿ BY-NC-ND"
 
 #: footer.php:79
 msgid "Return to top"
@@ -389,7 +389,7 @@ msgstr "%s ರಿಂದ ಸಾಮರ್ಥ್ಯ ಪಡೆದಿದೆ"
 #: sidebar-two.php:43
 #: sidebar.php:49
 msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
-msgstr "ವರ್ಡ್ ಪ್ರೆಸ್, state-of-the-art ಶಬ್ದಾರ್ಥ ವೈಯಕ್ತಿಕ ಪ್ರಕಟಣಾ ವೇದಿಕೆಯಿಂದ ಸಾಮರ್ಥ್ಯ ಪಡೆದಿದೆ."
+msgstr "ವರ್ಡ್ ಪ್ರೆಸ್, state-of-the-art semantic ವೈಯಕ್ತಿಕ ಪ್ರಕಟಣಾ ವೇದಿಕೆಯಿಂದ ಸಾಮರ್ಥ್ಯ ಪಡೆದಿದೆ."
 
 #: sidebar-two.php:48
 #: sidebar.php:34
@@ -513,7 +513,7 @@ msgstr ""
 
 #: admin/faq.php:23
 msgid "Can I modify Graphene to my heart's content without paying anything?"
-msgstr ""
+msgstr "ನಾನು ಏನನ್ನೂ ನೀಡದೇ ಗ್ರಾಫೀನ್ ಥೀಮ್‌ನ್ನು ನನ್ನ ಹೃದಯಕ್ಕೆ ಹತ್ತಿರವಾದಂತೆ ಬದಲಾವಣೆ ಮಾಡಬಹುದೇ?"
 
 #: admin/faq.php:24
 msgid "The Graphene WordPress theme, along with all the other themes in the WordPress.org Official Free Themes Directory, is released under the GNU General Public License (GPL) Version 2. The full text of that licence is included with the theme in the <code>licence.txt</code> file in the theme's folder. Releasing the theme under that licence means, among others, that you are <em>free to modify the theme in any way for any purpose (including commercial)</em> without any obligation to the theme's author. However, if you decide to redistribute the theme, the licence dictates that you must release the theme under the same licence, GPLv2."
@@ -525,7 +525,7 @@ msgstr ""
 
 #: admin/faq.php:28
 msgid "If the theme is released under GPLv2, what is this Creative Commons licence in the theme's footer?"
-msgstr ""
+msgstr "ಒಂದುವೇಳೆ ಈ ಥೀಮ್ GPLv2 ಅಡಿಯಲ್ಲಿ ಬಿಡುಗಡೆಗೊಂಡಿದ್ದರೆ, ಥೀಮ್ ಫೂಟರ್ ನಲ್ಲಿರುವ ಸೃಜನಾತ್ಮಕ ಸಾಮಾನ್ಯ ಪರವಾನಗಿಯು ಏನು?"
 
 #: admin/faq.php:29
 msgid "The Creative Commons licence is a popular licence nowadays that are used by a lot of web-based content authors to licence their work such that it protects their intellectual property but in the same time allows its free distribution. It is included with the theme simply to make it easy for the theme's users to make use of the licence for the content they publish. Theme users can remove it altogether via the theme's Options page should they wish not to use it."
@@ -537,7 +537,7 @@ msgstr ""
 
 #: admin/faq.php:33
 msgid "Is the theme compatible with this plugin or that plugin?"
-msgstr ""
+msgstr "ಈ ಥೀಮ್ ಇದು ಅಥವಾ ಆ ಪ್ಲಗಿನ್ ಜೊತೆಗೆ ಹೊಂದಾಣಿಕೆಯಾಗುತ್ತದೆಯೇ?"
 
 #: admin/faq.php:34
 msgid "I don't know. With so many plugins available for WordPress, there's no way that I (or anybody else for that matter) can test for compatibility for all of them. Having said that, the theme is built with all the necessary WordPress components included with it, so chances are most plugins will be compatible with the theme."
@@ -549,15 +549,15 @@ msgstr ""
 
 #: admin/feature-pointers.php:8
 msgid "Where are all the options?!"
-msgstr ""
+msgstr "ಎಲ್ಲಾ ಆಯ್ಕೆಗಳು ಎಲ್ಲಿವೆ?!"
 
 #: admin/feature-pointers.php:9
 msgid "We've decided to clean things up!"
-msgstr ""
+msgstr "ನಾವು ಒಂದಿಷ್ಟು ವಿಷಯಗಳನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಲು ನಿರ್ಧರಿಸಿದ್ದೇವೆ!"
 
 #: admin/feature-pointers.php:10
 msgid "We know how too many options can really be daunting to new users, so we've hidden them."
-msgstr ""
+msgstr "ತುಂಬಾ ಆಯ್ಕೆಗಳು ಹೇಗೆ ಹೊಸ ಬಳಕೆದಾರರನ್ನು ಹೆದರಿಸುತ್ತದೆ ಎಂದು ನಮಗೆ ಗೊತ್ತು, ಹಾಗಾಗಿ ನಾವು ಅವುಗಳನ್ನು ಮುಚ್ಚಿಟ್ಟಿದ್ದೇವೆ."
 
 #: admin/feature-pointers.php:11
 msgid "But no worries! If you're a seasoned user of the Graphene theme, or whenever you feel ready to further customise your site, just click on the \"Show all options\" link, and they will magically appear to you."
@@ -566,11 +566,11 @@ msgstr ""
 #: admin/options-advanced.php:12
 #: admin/options.php:350
 msgid "Preview"
-msgstr ""
+msgstr "ಮುನ್ನೋಟ"
 
 #: admin/options-advanced.php:19
 msgid "Enable preview of your site on the Graphene Theme Options page"
-msgstr ""
+msgstr "ಗ್ರಾಫೀನ್ ಥೀಮ್ ಆಯ್ಕೆ ಪುಟದಲ್ಲಿ ನಿಮ್ಮ ತಾಣದ ಮುನ್ನೋಟವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
 
 #: admin/options-advanced.php:31
 msgid "Action Hooks Widget Areas"
