@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Graphene 1.0 theme for WordPress\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-01-21 21:34+1200\n"
-"PO-Revision-Date: 2012-03-24 09:28+0530\n"
+"PO-Revision-Date: 2012-03-25 11:49+0530\n"
 "Last-Translator: Prasanna SP <prasannasp@live.com>\n"
 "Language-Team: Prasanna SP <prasanna@prasannasp.net>\n"
 "MIME-Version: 1.0\n"
@@ -74,7 +74,7 @@ msgstr "ಬ್ಲಾಗ್ ಸಂಗ್ರಹ"
 
 #: author.php:32
 msgid "Author's posts listings"
-msgstr "ಲೇಖಕರ ಬರಹಗಳ ಪಟ್ಟಿ"
+msgstr "ಲೇಖಕರ ಪೋಸ್ಟ್ ಪಟ್ಟಿ"
 
 #: category.php:13
 #, php-format
@@ -83,7 +83,7 @@ msgstr "ವಿಭಾಗ ಸಂಗ್ರಹ: <span>%s</span>"
 
 #: comments.php:25
 msgid "This post is password protected. Enter the password to view any comments."
-msgstr "ಈ ಬರಹವನ್ನು ಗುಪ್ತಪದದಿಂದ ಸಂರಕ್ಷಿಸಲಾಗಿದೆ. ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ನೋಡಲು ನಿಮ್ಮ ಗುಪ್ತಪದವನ್ನು ನೀಡಿ."
+msgstr "ಈ ಪೋಸ್ಟ್ ನ್ನು ಗುಪ್ತಪದದಿಂದ ಸಂರಕ್ಷಿಸಲಾಗಿದೆ. ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ನೋಡಲು ನಿಮ್ಮ ಗುಪ್ತಪದವನ್ನು ನೀಡಿ."
 
 #: comments.php:49
 #: loop-author.php:85
@@ -185,7 +185,7 @@ msgstr "ಜೀವನಚರಿತ್ರೆ"
 
 #: loop-author.php:52
 msgid "Latest posts"
-msgstr "ಇತ್ತೀಚಿನ ಬರಹಗಳು"
+msgstr "ಇತ್ತೀಚಿನ ಪೋಸ್ಟ್ ಗಳು"
 
 #: loop-author.php:55
 #: loop-author.php:85
@@ -207,7 +207,7 @@ msgstr "(ಯಾವುದೇ ಶೀರ್ಷಿಕೆ ಇಲ್ಲ)"
 
 #: loop-author.php:92
 msgid "Most commented posts"
-msgstr "ಅತಿ ಹೆಚ್ಚು ಪ್ರತಿಕ್ರಿಯೆಗಳಿರುವ ಬರಹಗಳು"
+msgstr "ಅತಿ ಹೆಚ್ಚು ಪ್ರತಿಕ್ರಿಯೆಗಳಿರುವ ಪೋಸ್ಟ್ ಗಳು"
 
 #: loop-children.php:45
 #: loop-children.php:53
@@ -278,7 +278,7 @@ msgstr "ದೃಶ್ಯಾವಳಿ"
 
 #: loop-post-formats.php:19
 msgid "Post format"
-msgstr "ಬರಹ ವಿನ್ಯಾಸ"
+msgstr "ಪೋಸ್ಟ್ ವಿನ್ಯಾಸ"
 
 #. translators: This is the PHP date formatting string for the status post format. See http://php.net/manual/en/function.date.php for more details.
 #: loop-post-formats.php:32
@@ -291,7 +291,7 @@ msgstr "g:i A"
 
 #: loop-post-formats.php:42
 msgid "Edit post"
-msgstr "ಬರಹವನ್ನು ಬದಲಾಯಿಸಿ"
+msgstr "ಪೋಸ್ಟ್ ನ್ನು ಬದಲಾಯಿಸಿ"
 
 #. translators: This is the PHP date formatting string for the image post format. See http://php.net/manual/en/function.date.php for more details.
 #: loop-post-formats.php:77
@@ -312,7 +312,7 @@ msgstr "ವಿಭಾಗಗಳು:"
 #: loop.php:102
 #, php-format
 msgid "by %s"
-msgstr "ಇವರಿಂದ %s"
+msgstr "%s ಅವರಿಂದ"
 
 #: loop-single.php:132
 #: loop.php:158
@@ -322,7 +322,7 @@ msgstr "ಟ್ಯಾಗ್‌ಗಳು:"
 #: loop-single.php:132
 #: loop.php:158
 msgid "This post has no tag"
-msgstr "ಈ ಬರಹ ಯಾವುದೇ ಟ್ಯಾಗ್ ಹೊಂದಿಲ್ಲ"
+msgstr "ಈ ಪೋಸ್ಟ್ ಯಾವುದೇ ಟ್ಯಾಗ್ ಹೊಂದಿಲ್ಲ"
 
 #: loop-single.php:153
 msgid "About the author"
@@ -372,7 +372,7 @@ msgstr "Meta"
 #: sidebar-two.php:40
 #: sidebar.php:46
 msgid "Posts RSS"
-msgstr "ಬರಹಗಳ RSS"
+msgstr "ಪೋಸ್ಟ್ ಗಳ RSS"
 
 #: sidebar-two.php:41
 #: sidebar.php:47
@@ -437,7 +437,7 @@ msgstr "ವಿಶಿಷ್ಟ ಚಿತ್ರ"
 
 #: admin/custom-fields.php:109
 msgid "First image in post"
-msgstr "ಬರಹದ ಮೊದಲ ಚಿತ್ರ"
+msgstr "ಪೋಸ್ಟಿನ ಮೊದಲ ಚಿತ್ರ"
 
 #: admin/custom-fields.php:110
 msgid "Custom URL"
@@ -469,7 +469,7 @@ msgstr "ಗುಂಡಿಯನ್ನು ಮರೆಮಾಡಿ"
 
 #: admin/custom-fields.php:142
 msgid "Post date display"
-msgstr "ಬರಹದ ದಿನಾಂಕ ಪ್ರದರ್ಶನ"
+msgstr "ಪೋಸ್ಟ್ ದಿನಾಂಕ ಪ್ರದರ್ಶನ"
 
 #: admin/custom-fields.php:147
 msgid "Hide date"
@@ -505,7 +505,7 @@ msgstr "ಪೋಸ್ಟಿನ ವಿಶಿಷ್ಟ ಚಿತ್ರ ಹೆಡರ
 
 #: admin/faq.php:19
 msgid "This is actually one of the theme's features, based on the feature in the default TwentyTen theme. Any featured image that has a size of greater than or equal to the theme's header image size (960 x 198 pixels) will replace the header image when the post/page that featured image is assigned to is being displayed. It enables you to have different header image for different posts and/or pages."
-msgstr "ಇದು ವಾಸ್ತವವಾಗಿ ಡೀಫಾಲ್ಟ್ TwentyTen ಥೀಮ್ ಆಧಾರಿತ ಥೀಮ್ ವೈಶಿಷ್ಟ್ಯ. ಯಾವುದೇ ಬರಹ ಅಥವಾ ಪುಟಕ್ಕೆ ವಿಶಿಷ್ಟ ಚಿತ್ರವನ್ನು ನಿಗದಿಪಡಿಸಿದಾಗ, ವಿಶಿಷ್ಟ ಚಿತ್ರವು ಹೆಡರ್ ಚಿತ್ರಕ್ಕಿಂತ ದೊಡ್ಡದಾದ ಅಥವಾ ಹೆಡರ್ ಚಿತ್ರದಷ್ಟೇ ಇದ್ದಾಗ (960 x 198 ಪಿಕ್ಸೆಲ್‌ಗಳು) ಅದು ಹೆಡರ್ ಚಿತ್ರದ ಬದಲಿಗೆ ಪ್ರದರ್ಶಿಸಲ್ಪಡುತ್ತದೆ. ಇದು ಬೇರೆ ಬೇರೆ ಪೋಸ್ಟ್ ಮತ್ತು/ಅಥವಾ ಪುಟವು ಬೇರೆ ಬೇರೆ ಹೆಡರ್ ಚಿತ್ರವನ್ನು ಹೊಂದಲು ಸಾಧ್ಯವಾಗಿಸುತ್ತದೆ."
+msgstr "ಇದು ವಾಸ್ತವವಾಗಿ ಡೀಫಾಲ್ಟ್ TwentyTen ಥೀಮ್ ಆಧಾರಿತ ಥೀಮ್ ವೈಶಿಷ್ಟ್ಯ. ಯಾವುದೇ ಪೋಸ್ಟ್ ಅಥವಾ ಪುಟಕ್ಕೆ ವಿಶಿಷ್ಟ ಚಿತ್ರವನ್ನು ನಿಗದಿಪಡಿಸಿದಾಗ, ವಿಶಿಷ್ಟ ಚಿತ್ರವು ಹೆಡರ್ ಚಿತ್ರಕ್ಕಿಂತ ದೊಡ್ಡದಾದ ಅಥವಾ ಹೆಡರ್ ಚಿತ್ರದಷ್ಟೇ ಇದ್ದಾಗ (960 x 198 ಪಿಕ್ಸೆಲ್‌ಗಳು) ಅದು ಹೆಡರ್ ಚಿತ್ರದ ಬದಲಿಗೆ ಪ್ರದರ್ಶಿಸಲ್ಪಡುತ್ತದೆ. ಇದು ಬೇರೆ ಬೇರೆ ಪೋಸ್ಟ್ ಮತ್ತು/ಅಥವಾ ಪುಟವು ಬೇರೆ ಬೇರೆ ಹೆಡರ್ ಚಿತ್ರವನ್ನು ಹೊಂದಲು ಸಾಧ್ಯವಾಗಿಸುತ್ತದೆ."
 
 #: admin/faq.php:20
 msgid "If you want to disable this feature, simply tick the <em>Disable Featured Image replacing header image</em> option in the <a href=\"themes.php?page=graphene_options&tab=display\">Graphene Options</a> page, under Display &gt; Header Display Options."
@@ -594,23 +594,23 @@ msgstr ""
 
 #: admin/options-display.php:13
 msgid "Header Display Options"
-msgstr ""
+msgstr "ಹೆಡರ್ ಪ್ರದರ್ಶನದ ಆಯ್ಕೆಗಳು"
 
 #: admin/options-display.php:19
 msgid "Use light-coloured header bars"
-msgstr ""
+msgstr "ಲಘು ಬಣ್ಣದ ಹೆಡರ್ ಬಾರ್ ಬಳಸಿ"
 
 #: admin/options-display.php:25
 msgid "Link header image to front page"
-msgstr ""
+msgstr "ಹೆಡರ್ ಚಿತ್ರವನ್ನು ಮುಖಪುಟಕ್ಕೆ ಲಿಂಕ್ ಮಾಡಿ"
 
 #: admin/options-display.php:28
 msgid "Check this if you disable the header texts and want the header image to be linked to the front page."
-msgstr ""
+msgstr "ನೀವು ಹೆಡರ್ ಅಕ್ಷರಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದ್ದರೆ ಹಾಗೂ ಹೆಡರ್ ಚಿತ್ರವನ್ನು ಮುಖಪುಟಕ್ಕೆ ಲಿಂಕ್ ಮಾಡಲು ಬಯಸಿದರೆ ಇದನ್ನು ಆರಿಸಿ."
 
 #: admin/options-display.php:33
 msgid "Disable Featured Image replacing header image"
-msgstr ""
+msgstr "ವಿಶಿಷ್ಟ ಚಿತ್ರವು ಹೆಡರ್ ಚಿತ್ರವನ್ನು ಬದಲಾಯಿಸುವುದನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"
 
 #: admin/options-display.php:36
 msgid "Check this to prevent the posts Featured Image replacing the header image regardless of the featured image dimension."
@@ -618,7 +618,7 @@ msgstr ""
 
 #: admin/options-display.php:41
 msgid "Use random header image"
-msgstr ""
+msgstr "ಯಾವುದಾದರೊಂದು ಹೆಡರ್ ಚಿತ್ರವನ್ನು ಬಳಸಿಕೊಳ್ಳು"
 
 #: admin/options-display.php:45
 msgid "Check this to show a random header image (random image taken from the available default header images)."
@@ -630,167 +630,167 @@ msgstr ""
 
 #: admin/options-display.php:52
 msgid "Search box location"
-msgstr ""
+msgstr "ಹುಡುಕು ಪೆಟ್ಟಿಗೆಯ ಸ್ಥಳ"
 
 #: admin/options-display.php:56
 msgid "Top bar"
-msgstr ""
+msgstr "ಟಾಪ್ ಬಾರ್"
 
 #: admin/options-display.php:57
 msgid "Navigation bar"
-msgstr ""
+msgstr "ನ್ಯಾವಿಗೇಶನ್ ಬಾರ್"
 
 #: admin/options-display.php:58
 msgid "Disable search box"
-msgstr ""
+msgstr "ಹುಡುಕು ಪೆಟ್ಟಿಗೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು"
 
 #: admin/options-display.php:71
 msgid "Column Options"
-msgstr ""
+msgstr "ಕಾಲಂ ಆಯ್ಕೆಗಳು"
 
 #: admin/options-display.php:77
 msgid "Column mode"
-msgstr ""
+msgstr "ಕಾಲಂ ರೀತಿ"
 
 #: admin/options-display.php:86
 #: admin/options-display.php:131
 msgid "One column"
-msgstr ""
+msgstr "ಒಂದು ಕಾಲಂ"
 
 #: admin/options-display.php:93
 #: admin/options-display.php:138
 msgid "Two columns (with sidebar right)"
-msgstr ""
+msgstr "ಎರಡು ಕಾಲಂಗಳು (ಬಲಬದಿಯಲ್ಲಿ ಸೈಡ್ ಬಾರ್)"
 
 #: admin/options-display.php:97
 #: admin/options-display.php:142
 msgid "Two columns (with sidebar left)"
-msgstr ""
+msgstr "ಎರಡು ಕಾಲಂಗಳು (ಎಡಬದಿಯಲ್ಲಿ ಸೈಡ್ ಬಾರ್)"
 
 #: admin/options-display.php:104
 #: admin/options-display.php:149
 msgid "Three columns (with two sidebars right)"
-msgstr ""
+msgstr "ಮೂರು ಕಾಲಂಗಳು (ಎರಡೂ ಸೈಡ್ ಬಾರ್ ಗಳು ಬಲಬದಿಯಲ್ಲಿ)"
 
 #: admin/options-display.php:108
 #: admin/options-display.php:153
 msgid "Three columns (with two sidebars left)"
-msgstr ""
+msgstr "ಮೂರು ಕಾಲಂಗಳು (ಎರಡೂ ಸೈಡ್ ಬಾರ್ ಗಳು ಎಡಬದಿಯಲ್ಲಿ)"
 
 #: admin/options-display.php:112
 #: admin/options-display.php:157
 msgid "Three columns (with sidebars left and right)"
-msgstr ""
+msgstr "ಮೂರು ಕಾಲಂಗಳು (ಸೈಡ್ ಬಾರ್ ಗಳು ಎಡ ಮತ್ತು ಬಲ ಬದಿಯಲ್ಲಿ)"
 
 #: admin/options-display.php:122
 msgid "bbPress column mode"
-msgstr ""
+msgstr "bbPress ಕಾಲಂ ರೀತಿ"
 
 #: admin/options-display.php:173
 msgid "Column Width Options"
-msgstr ""
+msgstr "ಕಾಲಂ ಅಗಲ ಆಯ್ಕೆಗಳು"
 
 #: admin/options-display.php:176
 msgid "Note: Leave values empty to reset to the default values."
-msgstr ""
+msgstr "ಸೂಚನೆ: ಡೀಫಾಲ್ಟ್ ಮೌಲ್ಯಗಳಿಗೆ ಮರುಹೊಂದಿಸಲು ಜಾಗವನ್ನು ಖಾಲಿ ಬಿಡಿ."
 
 #: admin/options-display.php:180
 msgid "Container width"
-msgstr ""
+msgstr "ಕಂಟೈನರ್ ಅಗಲ"
 
 #: admin/options-display.php:197
 #: admin/options-display.php:220
 msgid "Column width"
-msgstr ""
+msgstr "ಕಾಲಂ ಅಗಲ"
 
 #: admin/options-display.php:197
 msgid "two-column mode"
-msgstr ""
+msgstr "ಎರಡು-ಕಾಲಂ ರೀತಿ"
 
 #: admin/options-display.php:201
 #: admin/options-display.php:228
 msgid "Content"
-msgstr ""
+msgstr "ಕಂಟೆಂಟ್"
 
 #: admin/options-display.php:205
 msgid "Sidebar"
-msgstr ""
+msgstr "ಸೈಡ್ ಬಾರ್"
 
 #: admin/options-display.php:220
 msgid "three-column mode"
-msgstr ""
+msgstr "ಮೂರು-ಕಾಲಂ ರೀತಿ"
 
 #: admin/options-display.php:224
 msgid "Left sidebar"
-msgstr ""
+msgstr "ಎಡಭಾಗದ ಸೈಡ್ ಬಾರ್"
 
 #: admin/options-display.php:232
 msgid "Right sidebar"
-msgstr ""
+msgstr "ಬಲಭಾಗದ ಸೈಡ್ ಬಾರ್"
 
 #: admin/options-display.php:253
 msgid "Posts Display Options"
-msgstr ""
+msgstr "ಪೋಸ್ಟ್ ಪ್ರದರ್ಶನ ಆಯ್ಕೆ"
 
 #: admin/options-display.php:259
 msgid "Hide post author"
-msgstr ""
+msgstr "ಪೋಸ್ಟ್ ಲೇಖಕರ ಹೆಸರನ್ನು ಮುಚ್ಚಿಡಿ"
 
 #: admin/options-display.php:269
 msgid "Hidden"
-msgstr ""
+msgstr "ಪ್ರದರ್ಶಿಸದಿರು"
 
 #: admin/options-display.php:270
 msgid "As an icon (without the year)"
-msgstr ""
+msgstr "ಐಕಾನ್ ರೀತಿ (ವರ್ಷವನ್ನು ಹೊರತುಪಡಿಸಿ)"
 
 #: admin/options-display.php:271
 msgid "As an icon (including the year)"
-msgstr ""
+msgstr "ಐಕಾನ್ ರೀತಿ (ವರ್ಷವನ್ನು ಸೇರಿಸಿ)"
 
 #: admin/options-display.php:272
 msgid "As inline text"
-msgstr ""
+msgstr "ಆಂತರಿಕ ಸಾಲಿನಂತೆ"
 
 #: admin/options-display.php:274
 msgid "Note: displaying date as inline text allows more space for the content area, especially useful for a three-column layout configuration."
-msgstr ""
+msgstr "ಸೂಚನೆ: ಆಂತರಿಕ ಸಾಲಿನ ದಿನಾಂಕವು ಪೋಸ್ಟಿಗೆ ಹೆಚ್ಚು ಜಾಗವನ್ನು ಕಲ್ಪಿಸುತ್ತದೆ, ಮೂರು-ಕಾಲಂ ವಿನ್ಯಾಸ ರೀತಿಯಿದ್ದಾಗ ಅದು ಹೆಚ್ಚು ಉಪಯುಕ್ತ."
 
 #: admin/options-display.php:279
 msgid "Hide post categories"
-msgstr ""
+msgstr "ಪೋಸ್ಟ್ ವಿಭಾಗಗಳನ್ನು ಮರೆಮಾಚಿ"
 
 #: admin/options-display.php:285
 msgid "Hide post tags"
-msgstr ""
+msgstr "ಪೋಸ್ಟ್ ಟ್ಯಾಗ್‌ಗಳನ್ನು ಮರೆಮಾಚಿ"
 
 #: admin/options-display.php:291
 msgid "Hide post comment count"
-msgstr ""
+msgstr "ಪೋಸ್ಟಿನ ಪ್ರತಿಕ್ರಿಯೆಗಳ ಸಂಖ್ಯೆಯನ್ನು ಮರೆಮಾಚಿ"
 
 #: admin/options-display.php:292
 msgid "Only affects posts listing (such as the front page) and not single post view."
-msgstr ""
+msgstr "ಪೋಸ್ಟ್ ಪಟ್ಟಿಗೆ ಮಾತ್ರಾ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ (ಮುಖಪುಟದಲ್ಲಿರುವಂತೆ) ಮತ್ತು ಒಂದೇ ಪೋಸ್ಟ್ ವೀಕ್ಷಣೆಗೆ ಅನ್ವಯಿಸುವುದಿಲ್ಲ."
 
 #: admin/options-display.php:297
 msgid "Show post author's <a href=\"http://en.gravatar.com/\">gravatar</a>"
-msgstr ""
+msgstr "ಪೋಸ್ಟ್ ಲೇಖಕರ <a href=\"http://en.gravatar.com/\">gravatar</a> ತೋರಿಸು"
 
 #: admin/options-display.php:301
 msgid "Show post author's info"
-msgstr ""
+msgstr "ಪೋಸ್ಟ್ ಲೇಖಕರ ಮಾಹಿತಿಯನ್ನು ತೋರಿಸು"
 
 #: admin/options-display.php:313
 msgid "Excerpts Display Options"
-msgstr ""
+msgstr "ಪೋಸ್ಟಿನ ಆಯ್ದ ಭಾಗದ ಪ್ರದರ್ಶನ ಆಯ್ಕೆ"
 
 #: admin/options-display.php:319
 msgid "Show excerpts in front page"
-msgstr ""
+msgstr "ಮುಖಪುಟದಲ್ಲಿ ಪೋಸ್ಟಿನ ಆಯ್ದ ಭಾಗವನ್ನು ತೋರಿಸಿ"
 
 #: admin/options-display.php:325
 msgid "Show full content in archive pages"
-msgstr ""
+msgstr "ಸಂಗ್ರಹ ಪುಟದಲ್ಲಿ ಪೂರ್ಣ ವಿಷಯವನ್ನು ತೋರಿಸಿ"
 
 #: admin/options-display.php:329
 msgid "Note: Archive pages include the archive for category, tags, time, and search results pages. Enabling this option will cause the full content of posts and pages listed in those archives to displayed instead of the excerpt, and truncated by the Read More tag if used."
@@ -798,27 +798,27 @@ msgstr ""
 
 #: admin/options-display.php:333
 msgid "Show More link for manual excerpts"
-msgstr ""
+msgstr "ಕೈಯಿಂದ ಮಾಡಿದ ಆಯ್ದ ಭಾಗಕ್ಕೆ Show More ಲಿಂಕನ್ನು ತೋರಿಸಿ"
 
 #: admin/options-display.php:337
 msgid "Retain these HTML tags in excerpts"
-msgstr ""
+msgstr "ಆಯ್ದ ಭಾಗದಲ್ಲಿ ಈ HTML ಟ್ಯಾಗ್‌ಗಳನ್ನು ಉಳಿಸಿಕೊಳ್ಳಿ"
 
 #: admin/options-display.php:340
 msgid "Enter the HTML tags you'd like to retain in excerpts. For example, enter <code>&lt;p&gt;&lt;ul&gt;&lt;li&gt;</code> to retain <code>&lt;p&gt;</code>, <code>&lt;ul&gt;</code>, and <code>&lt;li&gt;</code> HTML tags."
-msgstr ""
+msgstr "ನೀವು ಆಯ್ದ ಭಾಗದಲ್ಲಿ ಉಳಿಸಿಕೊಳ್ಳಬೇಕಾದ HTML ಟ್ಯಾಗ್‌ಗಳನ್ನು ನೀಡಿ. ಉದಾಹರಣೆಗೆ, <code>&lt;p&gt;</code>, <code>&lt;ul&gt;</code>, ಮತ್ತು <code>&lt;li&gt;</code> HTML ಟ್ಯಾಗ್‌ಗಳನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲು <code>&lt;p&gt;&lt;ul&gt;&lt;li&gt;</code> ಎಂದು ನೀಡಿ."
 
 #: admin/options-display.php:353
 msgid "Comments Display Options"
-msgstr ""
+msgstr "ಪ್ರತಿಕ್ರಿಯೆ ಪ್ರದರ್ಶನದ ಆಯ್ಕೆಗಳು"
 
 #: admin/options-display.php:359
 msgid "Hide allowed tags in comment form"
-msgstr ""
+msgstr "ಕಾಮೆಂಟ್ ಫಾರ್ಮ್ ನಲ್ಲಿ ಅನುಮತಿಸಲಾದ ಟ್ಯಾಗ್‌ಗಳನ್ನು ಮರೆಮಾಚಿ"
 
 #: admin/options-display.php:372
 msgid "Colours Options"
-msgstr ""
+msgstr "ಬಣ್ಣಗಳ ಆಯ್ಕೆಗಳು"
 
 #: admin/options-display.php:375
 msgid "Changing colours for your website involves a lot more than just trial and error. Simply mixing and matching colours without regard to their compatibility may do more damage than good to your site's aesthetics."
@@ -2157,66 +2157,66 @@ msgstr ""
 
 #: includes/theme-comments.php:36
 msgid "Edit comment"
-msgstr ""
+msgstr "ಕಾಮೆಂಟ್ ಸಂಪಾದಿಸಿ"
 
 #: includes/theme-comments.php:40
 msgid "Reply"
-msgstr ""
+msgstr "ಪ್ರತ್ಯುತ್ತರಿಸಿ"
 
 #: includes/theme-comments.php:51
 msgid "Your comment is awaiting moderation."
-msgstr ""
+msgstr "ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಯು ಪರಿಷ್ಕರಣೆಗಾಗಿ ಕಾಯುತ್ತಿದೆ."
 
 #: includes/theme-comments.php:76
 msgid "Name:"
-msgstr ""
+msgstr "ಹೆಸರು:"
 
 #: includes/theme-comments.php:81
 msgid "Email:"
-msgstr ""
+msgstr "ಇ-ಮೇಲ್:"
 
 #: includes/theme-comments.php:86
 msgid "Website:"
-msgstr ""
+msgstr "ವೆಬ್ಸೈಟ್:"
 
 #: includes/theme-comments.php:100
 msgid "Message:"
-msgstr ""
+msgstr "ಸಂದೇಶ:"
 
 #: includes/theme-functions.php:72
 #, php-format
 msgid "Follow %s on Twitter"
-msgstr ""
+msgstr "%s ಅವರನ್ನು ಟ್ವಿಟರಿನಲ್ಲಿ ಹಿಂಬಾಲಿಸಿ"
 
 #: includes/theme-functions.php:75
 #, php-format
 msgid "Visit %s's Facebook page"
-msgstr ""
+msgstr "%s ಅವರ ಫೇಸ್‌ಬುಕ್ ಪುಟಕ್ಕೆ ಭೇಟಿ ನೀಡಿ"
 
 #: includes/theme-functions.php:97
 #, php-format
 msgid "Visit %1$s's %2$s page"
-msgstr ""
+msgstr "%1$s ಅವರ %2$s ಪುಟಕ್ಕೆ ಭೇಟಿ ನೀಡಿ"
 
 #: includes/theme-loop.php:85
 msgid "Continue reading &raquo;"
-msgstr ""
+msgstr "ಓದುವುದನ್ನು ಮುಂದುವರೆಸಿ &raquo;"
 
 #: includes/theme-loop.php:137
 msgid "Older posts &laquo;"
-msgstr ""
+msgstr "ಹಳೆಯ ಪೋಸ್ಟ್ ಗಳು &laquo;"
 
 #: includes/theme-loop.php:138
 msgid "&raquo; Newer posts"
-msgstr ""
+msgstr "&raquo; ಹೊಸ ಪೋಸ್ಟ್ ಗಳು"
 
 #: includes/theme-loop.php:140
 msgid "Next page &raquo;"
-msgstr ""
+msgstr "ಮುಂದಿನ ಪುಟ &raquo;"
 
 #: includes/theme-loop.php:141
 msgid "&laquo; Previous page"
-msgstr ""
+msgstr "&laquo; ಹಿಂದಿನ ಪುಟ"
 
 #: includes/theme-loop.php:221
 msgid "<strong>ERROR: You must supply the post ID to get the image from as an argument when calling the graphene_get_post_image() function.</strong>"
@@ -2224,27 +2224,27 @@ msgstr ""
 
 #: includes/theme-menu.php:65
 msgid "Home"
-msgstr ""
+msgstr "ಮುಖಪುಟ"
 
 #: includes/theme-panes.php:93
 msgid "Read more"
-msgstr ""
+msgstr "ಇನ್ನಷ್ಟು ಓದಿ"
 
 #: includes/theme-setup.php:90
 msgid "Header Menu"
-msgstr ""
+msgstr "ಹೆಡರ್ ಮೆನು"
 
 #: includes/theme-setup.php:91
 msgid "Secondary Menu"
-msgstr ""
+msgstr "ಸೆಕಂಡರಿ ಮೆನು"
 
 #: includes/theme-setup.php:92
 msgid "Footer Menu"
-msgstr ""
+msgstr "ಫೂಟರ್ ಮೆನು"
 
 #: includes/theme-setup.php:125
 msgid "Header image by Syahir Hakim"
-msgstr ""
+msgstr "ಸ್ಯಾಹಿರ್ ಹಕೀಮ್ ಅವರಿಂದ ಹೆಡರ್ ಚಿತ್ರ"
 
 #: includes/theme-setup.php:129
 msgid "This is the default Graphene theme header image, cropped from image by Quantin Houyoux at sxc.hu"
@@ -2260,7 +2260,7 @@ msgstr ""
 
 #: includes/theme-setup.php:204
 msgid "Sidebar Widget Area"
-msgstr ""
+msgstr "ಸೈಡ್ ಬಾರ್ ವಿಜೆಟ್ ಪ್ರದೇಶ"
 
 #: includes/theme-setup.php:206
 msgid "The first sidebar widget area (will always be displayed on the right hand side)."
@@ -2308,7 +2308,7 @@ msgstr ""
 
 #: includes/theme-setup.php:271
 msgid "Header Widget Area"
-msgstr ""
+msgstr "ಹೆಡರ್ ವಿಜೆಟ್ ಪ್ರದೇಶ"
 
 #: includes/theme-setup.php:273
 msgid "The header widget area."
